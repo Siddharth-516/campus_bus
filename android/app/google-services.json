@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392828601618",
+    "project_id": "campus-bus-62ef1",
+    "storage_bucket": "campus-bus-62ef1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392828601618:android:7bead6e7a20dc413b6dfcb",
+        "android_client_info": {
+          "package_name": "com.example.campus_bus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkLRbd2-ObcMM3biAn7uDSOrLiwZF7zK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

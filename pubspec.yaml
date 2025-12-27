@@ -1,0 +1,37 @@
+name: campus_bus
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.32.0
+  cloud_firestore: ^4.17.5
+  google_maps_flutter: ^2.7.0
+  geolocator: ^11.0.0
+  firebase_messaging: ^14.8.2
+  cupertino_icons: ^1.0.8
+  url_launcher: ^6.3.0
+  shared_preferences: ^2.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.0
+
+flutter:
+  uses-material-design: true
+  # assets:
+  #   - assets/icons/logo.png
+
+# Configuration for flutter_launcher_icons
+flutter_icons:
+  image_path: "assets/icons/logo.png"
+  android: true
+  ios: true
